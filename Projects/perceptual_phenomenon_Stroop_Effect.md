@@ -93,11 +93,11 @@ S<sub>I</sub> = 4.79
 ## Question 4: Plot the data
 To visualize the given sample and to draw comparisons I have used scatterplot and a line graph.  
 
-![Scatterplot]({filename}../../images/Projects/stroop/scatterplot.PNG "Scatterplot")
+![Scatterplot]({filename}../images/Projects/stroop/scatterplot.PNG "Scatterplot")
 
 The above figure shows the scatterplot of the sample values of time taken to read the congruent and incongruent words list. It can be observed that majority of points belonging to the incongruent lists have more taken as compared to that of the congruent words list.
 
-![Line_graph]({filename}../../images/Projects/stroop/line_graph.PNG "Line_graph")
+![Line_graph]({filename}../images/Projects/stroop/line_graph.PNG "Line_graph")
 
 The above figure shows the line chart of the sample values of time taken to read the congruent and incongruent words list. It can be observed that majority of points belonging to the incongruent lists have more taken as compared to that of the congruent words list.
 
