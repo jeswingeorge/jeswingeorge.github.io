@@ -1,4 +1,5 @@
 
+# Test a perceptual phenomenon - Stroop Effect
 
 ## Background Information
 In a Stroop task, participants are presented with a list of words, with each word displayed in a
@@ -93,7 +94,7 @@ S<sub>I</sub> = 4.79
 ## Question 4: Plot the data
 To visualize the given sample and to draw comparisons I have used scatterplot and a line graph.  
 
-![Scatterplot]({filename}../../images/Projects/stroop/scatterplot.PNG "Scatterplot")
+![Scatterplot](../../images/Projects/stroop/scatterplot.PNG)
 
 The above figure shows the scatterplot of the sample values of time taken to read the congruent and incongruent words list. It can be observed that majority of points belonging to the incongruent lists have more taken as compared to that of the congruent words list.
 
