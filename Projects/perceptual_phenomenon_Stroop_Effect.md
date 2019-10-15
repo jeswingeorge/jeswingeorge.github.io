@@ -98,7 +98,7 @@ To visualize the given sample and to draw comparisons I have used scatterplot an
 
 The above figure shows the scatterplot of the sample values of time taken to read the congruent and incongruent words list. It can be observed that majority of points belonging to the incongruent lists have more taken as compared to that of the congruent words list.
 
-![Line_graph]({filename}../../images/Projects/stroop/line_graph.PNG "Line_graph")
+![Line_graph](../../images/Projects/stroop/line_graph.PNG)
 
 The above figure shows the line chart of the sample values of time taken to read the congruent and incongruent words list. It can be observed that majority of points belonging to the incongruent lists have more taken as compared to that of the congruent words list.
 
