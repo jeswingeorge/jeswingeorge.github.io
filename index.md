@@ -2,6 +2,11 @@
 
 ---
 
+### [Python data science notes](python_ds_notes)
+
+
+---
+
 ### PROJECTS
 
 [Test a perceptual phenomenon - Stroop Effect](/Projects/perceptual_phenomenon_Stroop_Effect)
