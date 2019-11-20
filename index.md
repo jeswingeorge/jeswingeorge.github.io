@@ -1,8 +1,8 @@
-## Portfolio
+## PORTFOLIO AND MY DATA SCIENCE NOTES
 
 ---
 
-### [Python data science notes](python_ds_notes)
+### [PYTHON DATA SCIENCE NOTES](python_ds_notes)
 
 
 ---
