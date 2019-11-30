@@ -15,7 +15,7 @@
 
 ---
 
-## [EDA of red wine dataset](/Projects/explore_and_summarize_data_of_red_wine_using_R)
+## [EDA of red wine dataset](http://rpubs.com/jeswin_george/explore_red_quality_wines)
 <img src="images/Projects/red_wine_quality/red_wine.jpg?raw=true"/>
 
 ---
