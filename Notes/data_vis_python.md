@@ -9,3 +9,5 @@
 ### [Jointplot](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Seaborn/6.%20Jointplot.ipynb)
 ### [Heatmap](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Seaborn/7.Heatmap.ipynb)
 ### [Boxplot](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Seaborn/8.Boxplot.ipynb)
+### [FacetGrid](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Seaborn/9.%20FacetGrid.ipynb)
+### [Pairplot](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Seaborn/10.%20Pairplot.ipynb)
