@@ -19,3 +19,6 @@
 <img src="images/Projects/red_wine_quality/red_wine.jpg?raw=true"/>
 
 ---
+
+## [Scrapping website for hotels in Pune](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Web%20scrapping/1.web-scrapping-AV.ipynb)
+<img src ="images/Projects/pune.jpg?raw=true"/>
