@@ -20,5 +20,5 @@
 
 ---
 
-## [Scrapping website for hotels in Pune](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Web%20scrapping/1.web-scrapping-AV.ipynb)
+## [Scrapping website for hotels in Pune from website goibibo](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Web%20scrapping/web-scrapping-AV.ipynb)
 <img src ="images/Projects/pune.jpg?raw=true"/>

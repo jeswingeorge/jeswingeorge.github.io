@@ -1,4 +1,4 @@
-## Data Visualization using Python - Seaborn
+# Data Visualization using Python - Seaborn
 
 ### [Seaborn: Introduction](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Seaborn/Seaborn%20Intro.ipynb)
 ### [Countplot and Bargraph](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Seaborn/1.%20Bargraph.ipynb)
@@ -11,3 +11,10 @@
 ### [Boxplot](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Seaborn/8.Boxplot.ipynb)
 ### [FacetGrid](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Seaborn/9.%20FacetGrid.ipynb)
 ### [Pairplot](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Seaborn/10.%20Pairplot.ipynb)
+### [Stacked area plot](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Miscellaneous/Stacked%20area%20plots.ipynb)
+
+## Different use cases
+
+### [Create horizontal bargraph with different set of colors for values greter than mean value](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Miscellaneous/Conditional%20coloring%20of%20bargraphs.ipynb)
+### [Representing missing dates in a range of dates](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Miscellaneous/Diagram%20to%20show%20missing%20dates%20in%20data.ipynb)
+
