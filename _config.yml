@@ -1,13 +1,14 @@
 title: JESWIN GEORGE # your name (or website title) here
 logo: "/images/jeswin.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  DATA ANALYST
+  <b>DATA ANALYST</b>
+  <br><br>
+  <a href="https://www.dropbox.com/s/h8os98kp9xqdpj2/new_resume.pdf?dl=0">Download my resume</a> 
   <br><br>
   <a href="https://www.linkedin.com/in/jeswin-george-a020b8b3/">View My LinkedIn Profile</a>
   <br><br>
   <a href="https://public.tableau.com/profile/jeswin.george#!/">View My Tableau Public Profile</a> 
-  <br><br>
-  <a href="https://www.dropbox.com/s/h8os98kp9xqdpj2/new_resume.pdf?dl=0">Download my resume</a> 
+  
 
   
 theme: jekyll-theme-minimal
