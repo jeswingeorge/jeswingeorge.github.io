@@ -8,7 +8,7 @@ Here the following topics will be covered:
 3. Create a combined set
 4. Using set actions to make sets more dynamic and interactive
 
-__[Global superstore Data used for this blog can be downloaded from here](https://1drv.ms/x/s!Al_62RL1SdJmiUZ17zQ5m6hokJLu?e=WZciJa)__  
+__[Global superstore orders Data used for this blog can be downloaded from here](https://www.dropbox.com/s/ypodk3kminqa7il/Global%20Superstore.xls?dl=1)__  
 
 ## 1. Creating a dynamic set
 
@@ -83,13 +83,18 @@ To see the states which are in the top 10 of both highest sales and highest prof
 
 ## 4. Using set actions to make sets more dynamic and interactive
 
+![set_action_ref](../../images/tableau/working_with_sets/set_action_ref.PNG)
+
+__Image source: [Tableau blog - 8 ways to bring powerful new comparisons to viz audiences with Tableau set actions](https://www.tableau.com/about/blog/2018/11/8-ways-bring-powerful-new-comparisons-viz-audiences-set-actions-97207)__
+
 With __Set Actions__, it is possible to dynamically pass dimension values to existing sets based on value selection from other visualizations by user.
+Like parameters, set action allows user to control different aspects of analysis. 
 
+With Set Actions implemented, the values in the Set, change based on the selection from source sheet.
 
+> A set can apply different behaviours to various target sheets. For example, the same set could colour viz A, hide data in viz B, and filter an axis in viz C. Now with set actions, a user selection in any of the sheets can update the set, thereby modifying all target sheets in a single coordinated selection.
 
-
-
-
+![set_action_fns](../../images/tableau/working_with_sets/set_action_fns.PNG)
 
 
 
@@ -105,3 +110,5 @@ With __Set Actions__, it is possible to dynamically pass dimension values to exi
 2. [Analytics Vidhya - Intermediate Tableau guide for data science and business intelligence professionals](https://www.analyticsvidhya.com/blog/2018/01/tableau-for-intermediate-data-science/)
 3. [Hands-On Guide to Tableau Sets](https://www.absentdata.com/sets-in-tableau/)
 4. [Using set actions in Tableau](https://visualbi.com/blogs/tableau/set-actions-tableau/)
+5. [8 ways to bring powerful new comparisons to viz audiences with Tableau set actions](https://www.tableau.com/about/blog/2018/11/8-ways-bring-powerful-new-comparisons-viz-audiences-set-actions-97207)
+6. [8 analytic concepts to express with Tableau set actions](https://www.tableau.com/about/blog/2018/12/8-analytic-concepts-express-tableau-set-actions-99108)
