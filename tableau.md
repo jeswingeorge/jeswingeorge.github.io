@@ -3,7 +3,7 @@
 
 
 ***
-# Different visualizations in Tableau
+# Notes on different visualizations in Tableau (Learned from blogs and YouTube)
 ## [Donut Chart](/Tableau/charts_in_tableau/1.Donut_chart.md)
 
 ## [Sparklines](/Tableau/charts_in_tableau/2.Sparklines.md)
