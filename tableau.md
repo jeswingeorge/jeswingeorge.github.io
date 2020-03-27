@@ -6,7 +6,7 @@
 
 # Learning Tableau
 
-## [Implementing 15 Vizs using LOD Expressions](/learnings/lod_blog_implement.md)
+## [Implementing 15 Vizs using LOD Expressions](/Tableau/learnings/lod_blog_implement.md)
 
 ***
 # Tableau - Advanced Graphs
@@ -21,6 +21,6 @@ Notes made from blogs and YouTube tutorials.
 
 ## [Bump Chart](/Tableau/charts_in_tableau/4.Bump_chart.md)
 
-## [Small Multiple Chart](/Tableau/5.small_multiple_charts.md)
+## [Small Multiple Chart](/Tableau/charts_in_tableau/5.small_multiple_charts.md)
 
 
