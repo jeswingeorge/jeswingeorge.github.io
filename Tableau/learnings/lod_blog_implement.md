@@ -17,7 +17,7 @@ Steps:
 
 [Link to the created visualisation](https://public.tableau.com/views/HistogramofCustomerOrdersCount/Dashboard1?:display_count=y&publish=yes&:origin=viz_share_link)
 
-![LOD1](../../images/tableau/learning/15_lods/load1.PNG)
+![LOD1](../../images/tableau/learning/15_lods/lod1.PNG)
 
 
 ## 2. Cohort analysis
