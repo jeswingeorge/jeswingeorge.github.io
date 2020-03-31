@@ -41,6 +41,8 @@ Steps:
 
 ## 3. Daily profit KPI
 
+[Download dataset used here](https://www.dropbox.com/s/qmn7q50r6d4i4bc/superstore_sample.xlsx?dl=0)
+
 To know the number of profitable days achieved each month or year, especially if we were curious about seasonal effects. The following view shows how LOD Expressions allow us to easily create bins on aggregated data such as profit per day, while the underlying data is recorded at a transactional level. 
 
 Here we will set KPIS as : 

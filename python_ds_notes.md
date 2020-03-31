@@ -6,5 +6,5 @@
 
 ## [Data Visualization using Python - Seaborn](/Notes/data_vis_python) 
 
-
+## [Statistics](/Notes/statistics.md)
 
