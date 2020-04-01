@@ -23,4 +23,7 @@ Notes made from blogs and YouTube tutorials.
 
 ## [Small Multiple Chart](/Tableau/charts_in_tableau/5.small_multiple_charts.md)
 
+## [Bullet Graph](/Tableau/charts_in_tableau/6.Bullet_graph.md)
+
+
 
