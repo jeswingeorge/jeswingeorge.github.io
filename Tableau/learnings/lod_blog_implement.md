@@ -68,6 +68,55 @@ Steps:
 
 ## 4. Percent of total
 
+[Download dataset used here](https://www.dropbox.com/s/ypodk3kminqa7il/Global%20Superstore.xls?dl=0)
+
+Here we will try to find the percentage of sales contributed by each country and also use filter Market.
+
+Steps:
+1. To calculate the total sale use fixed LOD. Create a calculated field __Total sales__: `{SUM([Sales])}`. This will create a single column with constant value of total sales.
+![LOD4](../../images/tableau/learning/15_lods/lod4_1.PNG)
+
+2. To find the overall sale %ge create calculated field __Percent of total__: `SUM([Sales])/[Total sales]`. This will create a single column which has %ge sale for that row.
+![LOD4](../../images/tableau/learning/15_lods/lod4_2.PNG)
+
+3. Now double click on the country to create a map.
+4. Drag claculated field __Percent of total__ to color and label marks card.
+5. Add Market as quick filer which aids in focussing on a particular Market.
+6. APAC Market view with their percentage of total sales value.
+ ![LOD4](../../images/tableau/learning/15_lods/lod4_3.PNG)
+
+ [Link to the created visualization](https://public.tableau.com/profile/jeswin.george#!/vizhome/LOD-4Percentageoftotalsales/Dashboard1).
+
+## 5. New customer acquisition
+
+[Download dataset used here](https://www.dropbox.com/s/ypodk3kminqa7il/Global%20Superstore.xls?dl=0)
+
+What is the daily trend of total customer acquisition by market? Finding the trend in this data will help us understand how well the regional marketing and sales organizations are doing at generating new business. The steeper the line, the better the acquisition trend. As a line flattens out, some action must be taken to increase lead flow.
+
+An LOD Expression ensures that repeat customers are not miscounted as new customers, as data must be evaluated at the customer level even though it is displayed visually by market and day.
+
+
+1. Create a calulated field __Customer Joining Date__: `{ FIXED [Customer ID]: MIN([Order Date])}`
+ ![LOD5](../../images/tableau/learning/15_lods/lod5_1.PNG)
+
+2. Now created another calculated field to see for a given _order date_ the customer who ordered was an Existing or a New customer. Named the calculated filed is __New Or Existing__: `IIF([Customer Joining date]=[Order Date], "New", "Existing")`
+ ![LOD5](../../images/tableau/learning/15_lods/lod5_2.PNG)
+
+3. Create a 3rd calculated field __Count of distinct customers__: `COUNTD([Customer ID])`
+4. Now Drag the field __Order Date__ to columns and convert it to (Months/Year) format.
+5. Drag the calculated field __Count of distinct customers__ to rows and do a quick table calculation of _Running Total__ to see all the new customers added over the Month/years.
+6. Now drag the calculated filed __New Or Existing__ to filters and select - __New__.
+7. Now drag the field __Market__ to colors mark card to see distinct new customers added to each market.
+8. Now create a dashboard after doing the necessary formatting.
+![LOD5](../../images/tableau/learning/15_lods/lod5_3.png)
+
+  [Link to the created visualization](https://public.tableau.com/views/Totalnumberofcustomersacquiredpermonth-yearpermarket/Dashboard1?:display_count=y&publish=yes&:origin=viz_share_link).
+
+## 6. Comparative sales analysis
+
+
+
+
 
 
 
