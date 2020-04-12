@@ -114,8 +114,45 @@ An LOD Expression ensures that repeat customers are not miscounted as new custom
 
 ## 6. Comparative sales analysis
 
+> It’s relatively straightforward to find the difference from average, but what if you wanted to find the difference from a selected category? First, you must isolate the sales of the selected category. Then an EXCLUDE Expression is needed to repeat that value across all other categories. It is then easy to take the difference of each category’s sales from the rest.  
+
+Steps:  
+
+1. Create a parameter __ Select a Sub-Category__
+   ![LOD6](../../images/tableau/learning/15_lods/lod6_1.png)
+
+   Worksheet after adding __Sub-category__ and __SUM(Sales)__ to it and after sorting in descending order.
+
+   ![LOD6](../../images/tableau/learning/15_lods/lod6_2.png)
 
 
+2. Need to isolate the sales of sub-category we are interested in this can be done with the help of IF statement and with the help of Parameters to make it more dynamic. So create a calculated field __Selected Sales__: 
+
+```
+IF [Sub-Category]=[Select  a Sub-Category]
+THEN [Sales] ELSE 0 END
+```
+
+Now right click on the parameter made earlier and select _Show Parameter control_.
+![LOD6](../../images/tableau/learning/15_lods/lod6_3.png)
+
+
+3. An LOD expression that excludes the category from grouping the sum of selected sales 
+will total the selected sales across all rows. This will make it easy to compare the sales of each category to the selected category. So create a calculated field __Sales of Selected Category__ : `{EXCLUDE [Sub-Category]: SUM([Selected Sales])}`.
+
+
+4. Now create another calculated field __Difference from selected__: `SUM([Sales]) - SUM([Sales of selected category])`
+
+Now do the following changes in workseet to see difference in sales of each sub-category side by side.
+![LOD6](../../images/tableau/learning/15_lods/lod6_4.png)
+
+5. Now do the necessary formatting and modify tooltips as required.
+![LOD6](../../images/tableau/learning/15_lods/lod6_5.png)
+
+  [Link to the created visualization](https://public.tableau.com/views/LOD-6Howsalesofacategorycomparetosalesofallcategories/Dashboard1?:retry=yes&:display_count=y&:origin=viz_share_link)
+
+
+## 7. Average of top deals by sales rep
 
 
 
