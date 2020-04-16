@@ -13,6 +13,8 @@
 #### [Pairplot](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Seaborn/10.%20Pairplot.ipynb)
 #### [Stacked area plot](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Miscellaneous/Stacked%20area%20plots.ipynb)
 #### [QQ Plot](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Seaborn/QQ-plot.ipynb)
+#### [Residplot](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Seaborn/11.residplot.ipynb)
+
 
 ## Different use cases
 
