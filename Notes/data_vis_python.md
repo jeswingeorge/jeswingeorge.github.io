@@ -14,6 +14,7 @@
 #### [Stacked area plot](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Miscellaneous/Stacked%20area%20plots.ipynb)
 #### [QQ Plot](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Seaborn/QQ-plot.ipynb)
 #### [Residplot](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Seaborn/11.residplot.ipynb)
+#### [Line plot](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Seaborn/12.Line_plot.ipynb)
 
 
 ## Different use cases
