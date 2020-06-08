@@ -15,10 +15,12 @@
 - [Handling missing values](https://nbviewer.jupyter.org/github/jeswingeorge/Data-Analytics-Notes/blob/master/Pandas/Data_school_notes/16.%20How%20do%20I%20handle%20missing%20values%20in%20pandas.ipynb)
 - [Changing data type of pandas series](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Pandas/16.changing_data_type_of_pd_series.ipynb)
 - [Rbind a pandas series to a pandas dataframe](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Pandas/18.Rbind%20a%20series%20to%20a%20dataframe.ipynb)
+- [Calculating rank of values in numerical columns of a dataframe](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Pandas/20.Calculating%20rank%20in%20each%20column%20of%20dataframe.ipynb)
 
 ## Data Exploration
 
 - [Pandas pivot table and frequency table/crosstab](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Pandas/17.pivot_table%20and%20crosstab.ipynb)
+- [Checking presnce of NA/inf/-inf in rows/columns of a dataframe]()
 
 
 ***
