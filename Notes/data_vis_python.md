@@ -1,4 +1,4 @@
-# Data Visualization using Python - Seaborn
+# Data Visualization using Python
 
 
 ## Basic Charts
@@ -26,7 +26,7 @@
 ##### [Create horizontal bargraph with different set of colors for values greter than mean value](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Miscellaneous/Conditional%20coloring%20of%20bargraphs.ipynb)
 ##### [Representing missing dates in a range of dates](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Miscellaneous/Diagram%20to%20show%20missing%20dates%20in%20data.ipynb)
 
-## Advnaced Chart types
+## Advanced Chart types
 
 ##### [Running barcharts](https://nbviewer.jupyter.org/github/jeswingeorge/Working-with-COVID-data/blob/master/running_bar_chart.ipynb)
-##### [Python Dataframe styling]()
+##### [Python Dataframe styling](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Advanced%20charts/Dataframe%20styling.ipynb)
