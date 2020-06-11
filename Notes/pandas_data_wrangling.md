@@ -16,6 +16,8 @@
 - [Changing data type of pandas series](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Pandas/16.changing_data_type_of_pd_series.ipynb)
 - [Rbind a pandas series to a pandas dataframe](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Pandas/18.Rbind%20a%20series%20to%20a%20dataframe.ipynb)
 - [Calculating rank of values in numerical columns of a dataframe](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Pandas/20.Calculating%20rank%20in%20each%20column%20of%20dataframe.ipynb)
+- [Using Pandas cut - Continuous to categorical](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Pandas/22.%20Pandas%20Cut%20%E2%80%93%20Continuous%20to%20Categorical.ipynb)
+- [Pandas apply function on series/dataframe](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Pandas/21.Using%20apply%20function%20on%20series%20and%20dataframe.ipynb)
 
 ## Data Exploration
 
