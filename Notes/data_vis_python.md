@@ -1,7 +1,12 @@
 # Data Visualization using Python
 
+## Charts using Plotly
 
-## Basic Charts
+- [Plotting using Plotly express](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Plotly/1.Plotly_exp.ipynb)
+- [Pandas visualization with plotly backend](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Seaborn/13.Pandas_plotly_backend.ipynb)
+
+
+## Basic Charts using Seaborn
 
 - [Seaborn: Introduction](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Seaborn/Seaborn%20Intro.ipynb)
 - [Countplot and Bargraph](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Seaborn/1.%20Bargraph.ipynb)
@@ -30,4 +35,3 @@
 
 - [Running barcharts](https://nbviewer.jupyter.org/github/jeswingeorge/Working-with-COVID-data/blob/master/running_bar_chart.ipynb)
 - [Python Dataframe styling](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Advanced%20charts/Dataframe%20styling.ipynb)
-- [Pandas visualization with plotly backend](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Seaborn/13.Pandas_plotly_backend.ipynb)

@@ -1,5 +1,10 @@
 # Projects
 
+<img src="images/Projects/kaggle1.PNG?raw=true"/>
+## [Kaggle: House Prices  Prediction problem](https://nbviewer.jupyter.org/github/jeswingeorge/Kaggle-House-Prices-Prediction/blob/master/7.EDA-prediction.ipynb)
+
+---
+
 ## [Identify fraud from Enron Email](https://nbviewer.jupyter.org/github/jeswingeorge/Enron-Email-Dataset/blob/master/Project_report.ipynb)
 <img src="images/Projects/Enron-logo.jpg?raw=true"/>
 
