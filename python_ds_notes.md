@@ -8,3 +8,4 @@
 
 ## [Statistics](/Notes/statistics.md)
 
+## [Machine Learning](/Notes/ml.md)
