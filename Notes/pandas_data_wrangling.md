@@ -1,6 +1,7 @@
 ## Pandas Data Wrangling
 
 - [Drop rows/columns of a pandas dataframe](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Pandas/5.%20Drop%20rows-columns%20of%20pandas%20dataframe.ipynb)
+- [Removing rows/columns of a pandas dataframe based on null values]()
 - [Rename rows/columns of a pandas dataframe](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Pandas/6.%20Rename%20rows-columns%20of%20pandas%20dataframe.ipynb)
 - [Selecting column/index of a dataframe based on their names using filter function](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Pandas/19.Selecting%20columns%20and%20indices%20based%20on%20their%20names.ipynb)
 - [Convert wide-form dataframe to long-form dataframe](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Pandas/2.%20Wide%20to%20long%20dataframe.ipynb)
@@ -19,6 +20,9 @@
 - [Using Pandas cut - Continuous to categorical](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Pandas/22.%20Pandas%20Cut%20%E2%80%93%20Continuous%20to%20Categorical.ipynb)
 - [Pandas apply function on series/dataframe](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Pandas/21.Using%20apply%20function%20on%20series%20and%20dataframe.ipynb)
 
+
+
+
 ## Data Exploration
 
 - [Pandas pivot table and frequency table/crosstab](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Pandas/17.pivot_table%20and%20crosstab.ipynb)
@@ -32,3 +36,4 @@
 - [Reading dates using pandas](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Pandas/7.%20Reading%20dates%20using%20pandas.ipynb)
 - [Working with dates using pandas](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Pandas/12.%20Working%20with%20dates.ipynb)
 - [Working with time using pandas](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Pandas/13.%20Working%20with%20time.ipynb)
+- [Adding days/month/years to a pandas datetime object series]()

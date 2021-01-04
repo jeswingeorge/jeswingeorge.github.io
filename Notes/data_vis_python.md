@@ -32,6 +32,8 @@
 - [Using matplotlib subplots](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Miscellaneous/using_sub-plots.ipynb)
 - [Create horizontal bargraph with different set of colors for values greter than mean value](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Miscellaneous/Conditional%20coloring%20of%20bargraphs.ipynb)
 - [Representing missing dates in a range of dates](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Miscellaneous/Diagram%20to%20show%20missing%20dates%20in%20data.ipynb)
+- [Highlight certain dates of a time series based on condition]()
+
 
 ## Advanced Chart types
 
