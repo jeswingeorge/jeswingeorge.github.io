@@ -13,4 +13,5 @@
 - [enumerate()](https://nbviewer.jupyter.org/github/jeswingeorge/Data-Analytics-Notes/blob/master/Python%20programming%20basics/python%20enumerate%28%29.ipynb)
 - [Python exception handling](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Referred%20Blogs%20notes/Python-notes/exception_handling.ipynb)
 - [`*args` and `**kwargs` in Python]()
+- [Counters](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Miscellaneous/Counters%20in%20python.ipynb)
 
