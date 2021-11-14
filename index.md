@@ -6,7 +6,7 @@
 
 ---
 
-## [PYTHON DATA SCIENCE NOTES](python_ds_notes)
+## [DATA SCIENCE NOTES](python_ds_notes)
 
 ---
 

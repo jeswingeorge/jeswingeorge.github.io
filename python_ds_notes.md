@@ -1,4 +1,4 @@
-# Notes on Data Science 
+# Data Science notes
 
 ## [Python Basics](/Notes/python-basics.md)
 
