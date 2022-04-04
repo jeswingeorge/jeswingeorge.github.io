@@ -20,8 +20,10 @@
 - [Using Pandas cut - Continuous to categorical](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Pandas/22.%20Pandas%20Cut%20%E2%80%93%20Continuous%20to%20Categorical.ipynb)
 - [Pandas apply function on series/dataframe](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Pandas/21.Using%20apply%20function%20on%20series%20and%20dataframe.ipynb)
 
-
-
+#### Multi-level Pandas Dataframe
+- [Read excel file with multiple headers and ignoring the initial rows of the sheet. Also translate some columns to a single level columns by using set_index](https://nbviewer.org/github/jeswingeorge/Python-DS-notes/blob/master/Pandas/23.reading_multi-index_excel_file.ipynb)
+- [Selecting columns from multi-index dataframe](https://nbviewer.org/github/jeswingeorge/Python-DS-notes/blob/master/Pandas/24.select_columns_from_multi-index_df.ipynb)
+- [Querying multi-index pandas dataframe](https://github.com/jeswingeorge/Python-DS-notes/blob/master/Pandas/25.%20Querying%20multi-index%20pandas%20dataframe.ipynb)
 
 ## Data Exploration
 
