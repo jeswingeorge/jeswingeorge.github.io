@@ -1,6 +1,7 @@
 ## Python basics
 
 - [Using Python's re module - Regular Expressions](https://nbviewer.jupyter.org/github/jeswingeorge/Data-Analytics-Notes/blob/master/Python_re_module/regex_corey_tutorial.ipynb)
+- [re module functions - re.findall() and re.sub()](https://nbviewer.org/github/jeswingeorge/Python-DS-notes/blob/master/Referred%20Blogs%20notes/Python-notes/1.regex_module.ipynb)
 - [How to know the type of a variable and to verify it](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Miscellaneous/to%20find%20and%20verify%20type%20of%20a%20variable.ipynb)
 - [List comprehension](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Miscellaneous/List_comprehension.ipynb)
 - [Dictionary notes - 1](https://nbviewer.jupyter.org/github/jeswingeorge/Data-Analytics-Notes/blob/master/Python%20programming%20basics/Dictionary/Dictionary.ipynb)
@@ -12,6 +13,5 @@
 - [Lambda function](https://nbviewer.jupyter.org/github/jeswingeorge/Data-Analytics-Notes/blob/master/Python%20programming%20basics/Python%20Lambda%20function.ipynb)
 - [enumerate()](https://nbviewer.jupyter.org/github/jeswingeorge/Data-Analytics-Notes/blob/master/Python%20programming%20basics/python%20enumerate%28%29.ipynb)
 - [Python exception handling](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Referred%20Blogs%20notes/Python-notes/exception_handling.ipynb)
-- [`*args` and `**kwargs` in Python]()
+- [`*args` and `**kwargs` in Python](http://nbviewer.org/github/jeswingeorge/Python-DS-notes/blob/master/Referred%20Blogs%20notes/Python-notes/args%20and%20kwargs%20in%20python.ipynb)
 - [Counters](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Miscellaneous/Counters%20in%20python.ipynb)
-

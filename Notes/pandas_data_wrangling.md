@@ -23,7 +23,7 @@
 #### Multi-level Pandas Dataframe
 - [Read excel file with multiple headers and ignoring the initial rows of the sheet. Also translate some columns to a single level columns by using set_index](https://nbviewer.org/github/jeswingeorge/Python-DS-notes/blob/master/Pandas/23.reading_multi-index_excel_file.ipynb)
 - [Selecting columns from multi-index dataframe](https://nbviewer.org/github/jeswingeorge/Python-DS-notes/blob/master/Pandas/24.select_columns_from_multi-index_df.ipynb)
-- [Querying multi-index pandas dataframe](https://github.com/jeswingeorge/Python-DS-notes/blob/master/Pandas/25.%20Querying%20multi-index%20pandas%20dataframe.ipynb)
+- [Querying multi-index pandas dataframe](http://nbviewer.org/github/jeswingeorge/Python-DS-notes/blob/master/Pandas/25.%20Querying%20multi-index%20pandas%20dataframe.ipynb)
 
 ## Data Exploration
 
