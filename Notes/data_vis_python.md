@@ -1,5 +1,14 @@
 # Data Visualization using Python
 
+## Different use cases
+
+- [Using tqdm library to track the progress of an iteration](https://nbviewer.org/github/jeswingeorge/Python-DS-notes/blob/master/Miscellaneous/3.Using_tqdm.ipynb)
+- [Histogram with boxplot on top](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Seaborn/14.boxplot_with_histogram_together.ipynb)
+- [Using matplotlib subplots](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Miscellaneous/using_sub-plots.ipynb)
+- [Create horizontal bargraph with different set of colors for values greter than mean value](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Miscellaneous/Conditional%20coloring%20of%20bargraphs.ipynb)
+- [Representing missing dates in a range of dates](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Miscellaneous/Diagram%20to%20show%20missing%20dates%20in%20data.ipynb)
+
+
 ## Charts using Plotly
 
 - [Plotting using Plotly express](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Plotly/1.Plotly_exp.ipynb)
@@ -24,15 +33,6 @@
 - [Residplot](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Seaborn/11.residplot.ipynb)
 - [Line plot](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Seaborn/12.Line_plot.ipynb)
 - [Catplot and Jointplot](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Seaborn/15.Catplot%20and%20jointplot.ipynb)
-
-
-## Different use cases
-
-- [Histogram with boxplot on top](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Seaborn/14.boxplot_with_histogram_together.ipynb)
-- [Using matplotlib subplots](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Miscellaneous/using_sub-plots.ipynb)
-- [Create horizontal bargraph with different set of colors for values greter than mean value](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Miscellaneous/Conditional%20coloring%20of%20bargraphs.ipynb)
-- [Representing missing dates in a range of dates](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Miscellaneous/Diagram%20to%20show%20missing%20dates%20in%20data.ipynb)
-- [Highlight certain dates of a time series based on condition]()
 
 
 ## Advanced Chart types
