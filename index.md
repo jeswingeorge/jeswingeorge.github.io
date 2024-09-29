@@ -11,8 +11,3 @@
 ---
 
 ## [TABLEAU](tableau)
-
-
----
-
-## [Analyzing COVID-19 Data](covid_19)

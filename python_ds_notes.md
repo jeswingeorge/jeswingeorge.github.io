@@ -8,6 +8,7 @@
 
 ## [Statistics](/Notes/statistics.md)
 
-## [Machine Learning](/Notes/ml.md)
+## [GCP BigQuery](/Notes/bigquery.md)
 
 ## [Pyspark](/Notes/spark.md)
+
