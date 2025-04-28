@@ -12,3 +12,5 @@
 
 ## [Pyspark](/Notes/spark.md)
 
+## [Miscellaneous](/Notes/miscellaneous.md)
+
