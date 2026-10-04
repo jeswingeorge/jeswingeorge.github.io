@@ -1,4 +1,4 @@
-# PORTFOLIO AND DATA SCIENCE NOTES
+# DATA SCIENCE PORTFOLIO
 
 ---
 
@@ -6,8 +6,8 @@
 
 ---
 
-## [DATA SCIENCE NOTES](python_ds_notes)
-
----
-
 ## [TABLEAU](tableau)
+
+<!-- --- -->
+
+<!-- ## [DATA SCIENCE NOTES](python_ds_notes) -->
