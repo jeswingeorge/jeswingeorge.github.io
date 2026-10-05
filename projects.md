@@ -14,11 +14,11 @@
   }
 </style>
 
-<img class="project-tile" src="images/Projects/churn.jpg?raw=true"/>
+<!-- <img class="project-tile" src="images/Projects/churn.jpg?raw=true"/>
 
 ## [Telco Customer Churn Prediction problem](https://churn-app-1012735950104.asia-south1.run.app/)
 
-##### [GitHub link to project](https://github.com/jeswingeorge/Telco-Customer-Churn-Kaggle)
+##### [GitHub link to project](https://github.com/jeswingeorge/Telco-Customer-Churn-Kaggle) -->
 
 
 ---
